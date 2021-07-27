@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jayjson
 - 👀 I’m interested in creating and deliverying special experiences through iOS apps.
 - 🌱 I’m currently learning Swift, functional reactive programming with Combine, and Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: jungik.son@gmail.com.
 
 <!---
