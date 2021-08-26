@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating and deliverying special experiences through iOS apps.
 - 🌱 I’m currently learning Swift, functional reactive programming with Combine, and Javascript.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 How to reach me: jungik.son@gmail.com.
+- 📫 How to reach me: jayjson@hey.com.
 
 <!---
 jayjson/jayjson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
