@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayjson
-- 👀 I’m interested in creating and deliverying special experiences through iOS apps.
-- 🌱 I’m currently learning Swift, functional reactive programming with Combine, and Javascript.
+- 👀 I work as an iOS engineer and am passionate about creating and deliverying special experiences through iOS apps.
+- 🌱 I’m currently learning Android development and Node.js.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: jayjson@hey.com.
 
